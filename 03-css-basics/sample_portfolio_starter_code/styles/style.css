@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+  font-family: "Helvetica";
+  background-color: rgb(241, 227, 222);
+}
+
+nav a {
+  font-size: 15px;
+  text-transform: uppercase;
+}
+
+h1 {
+  font-size: 45px;
+  color: red;
+}
+
+h2 {
+  font-size: 15px;
+  text-transform: uppercase;
+}
+
+h3 {
+  font-size: 18px;
+  font-weight: lighter;
+}
+
+p {
+  font-size: 14px;
+}
+
+footer li {
+  display: inline;
+  padding: 20px;
+}
+
+footer a {
+  color: green;
+}
